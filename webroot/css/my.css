@@ -1,0 +1,51 @@
+.baner{
+    text-align: center;
+    height: 400px !important;
+    background-image: url('../img/main.png');
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.menu{
+
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.nav {
+    display:inline-block;
+}
+
+.menu > .nav-pills > li {
+    float:none;
+    display:inline-block;
+
+
+}
+
+.nav-pills {
+    text-align:center;
+}
+
+.menu > .nav-pills > li > a {
+    color: #463123;
+    text-decoration: none;
+
+    text-transform: uppercase;
+    margin-right: 20px;
+
+}
+
+h1 {
+    color: #463123;
+    text-transform: uppercase;
+
+    line-height: 1.5;
+}
+
+.img-product {
+   padding-left: 20px;
+}
+
